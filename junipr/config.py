@@ -31,7 +31,7 @@ M_PAD  = -1  # mother momenta
 E_PAD  = 0 # endings and ending_weights
 
 # Dimension of mother output layer
-DIM_M = 100
+DIM_M = 120
 
 
 #########################
